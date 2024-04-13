@@ -1,0 +1,73 @@
+header {
+   background-color: #333;
+   color: gold;
+   padding: 2px;
+   text-align: center;
+   font-family:serif;
+   }
+.logo {
+    max-width: 60px; /* Adjust the width as needed */
+    height: auto; /* Automatically adjust the height while maintaining aspect ratio */
+    margin-left: center; /* Add spacing between the logo and other header content */
+}
+
+nav {
+	background-color: #444;
+	color: #fff;
+	padding: 10px 20px;
+	text-align: center;
+	}
+nav a {
+		color: #fff;
+		text-decoration: none;
+		text-decoration-color: yellow;
+		margin: 0 10px;
+		}
+nav a hover {
+			text-decoration: underline;
+			}
+body {
+	background-color:gray;
+	}
+footer {
+		background-color: #333;
+		color: #fff;
+		padding: 20px;
+		text-align: center;
+		font-family: Times New Roman;
+		}
+h1 {
+	text-align: center;
+	font-family: serif;
+   }
+h2 {
+	text-align: center;
+	font-family:serif;
+	}
+p {
+	font-family: monospace;
+	}
+	.product {
+	max-width: 300px;
+	margin: 0 auto;
+	text-align: center;
+	}
+	
+	img {
+	max-width: 100%;
+	}
+	
+	button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-top: 10px;
+	}
+	
+	button:hover {
+	background-color: #45a049;
+	}
+	
